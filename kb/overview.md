@@ -6,4 +6,4 @@ This project involved creating an online searchable knowledge base for a new, ea
 
 All images were edited using the open source software, Paint.NET. Pages were written and formatted in Markdown, with minor edits made using HTML. 
 
-![knowledge-base](kb.png)
+![knowledge-base](knowledge-base.png)
