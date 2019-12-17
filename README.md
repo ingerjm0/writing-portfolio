@@ -1,5 +1,5 @@
 ## Jenna M Ingersoll
-Technical Writing Professional - Seattle, WA
+Technical Writing Professional - Seattle, WA<br />
 www.linkedin.com/in/jenna-ingersoll 
 
 ### Portfolio Sample List
