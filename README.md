@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Jenna M Ingersoll
+Technical Writing Professional - Seattle, WA
+www.linkedin.com/in/jenna-ingersoll 
 
-You can use the [editor on GitHub](https://github.com/ingerjm0/writing-portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Portfolio Sample List
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ingerjm0/writing-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Online Help System with Sphinx and Read the Docs - Illustrates the use of Sphinx and Read the Docs to create a clean, usable online help system, while using a very cost effective tool. 
+* Online Help System with MadCap Flare - Illustrates the use of MadCap Flare to create a tri-panel user documentation system.
+* Knowledge Base using HubSpot Pages - Illustrates a knowledge base for frequently asked questions and troubleshooting information on a beta product.
+* API Reference Guide - Illustrates automatically generated API documentation using JSDoc. I implemented the entire system, from choosing and installing the tool(s) to writing the page templates, customizing the CSS, and hosting the documentation. The initial documentation was written by developers, and revised by my team of technical writers.
