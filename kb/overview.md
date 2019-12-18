@@ -6,7 +6,9 @@ This project involved creating an online searchable knowledge base for a new, ea
 
 **Sample Articles**
 
-* [Your First Day in Your Virtual Office](ftue.html)
+* [Your First Day in Your Virtual Office](ftue.html) - Getting Started
+* [How do I adjust my audio and microphone settings?](audio.html) - FAQ
+* [Using Rivet Killer Network Cards](rivet.html) - Troubleshooting
 
 All images were edited using the open source software, Paint.NET. Pages were written and formatted in Markdown, with minor edits made using HTML. 
 
