@@ -10,5 +10,7 @@ In an attempt to simplify the compilation process and standardize writing proced
 * Creating a MadCap Flare project to handle 2000+ content pages
 * Defining a process to create CHM files
 * Modernizing our deliverables by creating an online help system in addition to the CHM output
+* Optimizing the web output for desktop, tablet and mobile viewers
 * Working with localization vendors to integrated SDL Trados with MadCap Lingo for translations
 
+![](bartender-help.PNG)
