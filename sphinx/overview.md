@@ -13,7 +13,7 @@ Following the conversion, I continued to implement continual improvements to the
 * Addition of release notes
 * Addition and revision of new content as requested
 
-View the system here: [https://hifi-docs.readthedocs.io/en/latest](https://hifi-docs.readthedocs.io/en/latest) 
+View the system here: <a href="https://hifi-docs.readthedocs.io/en/latest" target="_blank">https://hifi-docs.readthedocs.io/en/latest</a>
 
 > This copy of the online help system has been forked from High Fidelity's open source code base and is hosted using a free version of Read the Docs, which includes ads. These ads were removed in the final publication of the docs by purchasing a commerical license for Read the Docs.
 
