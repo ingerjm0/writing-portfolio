@@ -8,8 +8,9 @@ Motivated and proactive professional experienced in supervising teams of writers
 quality technical documentation, and managing multiple complex projects simultaneously. Seeking to leverage management and writing skills to improve communication and deliver quality results to stakeholders.
 
 <p style="text-align:center;">Team Leadership • Technical Documentation • Content Strategy <br />
-Program/Project Management • UI/UX Design • Software Development • Information Architecture <br />
-Release Management • Instructional Design • Virtual Reality • Barcode Technologies <br />
+Program/Project Management • UI/UX Design • Software Development <br />
+Information Architecture • Release Management • Instructional Design <br />
+Virtual Reality • Barcode Technologies <br />
 C# • JavaScript • XML • HTML • CSS</p>
 
 <p style="text-align:center;"><a href="https://drive.google.com/open?id=0B8WUv5172EuCQndhVzQzY1hQcWxfdmpORG1xMWhjZUM3TmxB">Click to download full resume</a></p>
