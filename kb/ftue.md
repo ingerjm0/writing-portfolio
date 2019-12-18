@@ -1,6 +1,8 @@
 # Knowledge Base Article - Sample 1
 **NOTE:** All links in this document will return to the knowledge base overview.
 
+[Return to Knowledge Base Samples](../overview.html)
+
 ---
 
 ## Your First Day in Your Virtual Office
