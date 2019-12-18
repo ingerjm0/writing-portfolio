@@ -13,4 +13,4 @@ Following the conversion, I continued to implement continual improvements to the
 * Addition of release notes
 * Addition and revision of new content as requested
 
-![hifi-docs](hifi-docs.png)
+![](hifi-docs.png)
