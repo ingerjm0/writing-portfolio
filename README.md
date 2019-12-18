@@ -7,9 +7,11 @@ www.linkedin.com/in/jenna-ingersoll
 Motivated and proactive professional experienced in supervising teams of writers and developers, writing 
 quality technical documentation, and managing multiple complex projects simultaneously. Seeking to leverage management and writing skills to improve communication and deliver quality results to stakeholders.
 
-<p style="text-align='center';">Team Leadership • Technical Documentation • Content Strategy • Program/Project Management <br />
+<p style="text-align:center;">Team Leadership • Technical Documentation • Content Strategy • Program/Project Management <br />
 UI/UX Design • Software Development • Information Architecture • Release Management <br />
 Instructional Design • Virtual Reality • Barcode Technologies • C# • JavaScript • XML • HTML • CSS</p>
+
+<p style="text-align:center;"><a href="https://drive.google.com/open?id=0B8WUv5172EuCQndhVzQzY1hQcWxfdmpORG1xMWhjZUM3TmxB">Click to download full resume</a></p>
 
 ## Portfolio Sample List
 
