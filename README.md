@@ -1,18 +1,7 @@
 # Jenna M Ingersoll
 Technical Writing Professional - Seattle, WA<br />
-www.linkedin.com/in/jenna-ingersoll 
-
-## Overview
-
-Motivated and proactive professional experienced in supervising teams of writers and developers, writing quality technical documentation, and managing multiple complex projects simultaneously. Seeking to leverage management and writing skills to improve communication and deliver quality results to stakeholders.
-
-<p style="text-align:center;">
-Team Leadership • Technical Documentation • Content Strategy <br />
-Program/Project Management • Information Architecture • Communications <br />
-UI/UX Design • Software Development • Release Management <br />
-C# • JavaScript • XML • HTML • CSS</p>
-
-<p style="text-align:center;"><a href="https://drive.google.com/open?id=0B8WUv5172EuCQndhVzQzY1hQcWxfdmpORG1xMWhjZUM3TmxB">Click to download full resume</a></p>
+[www.linkedin.com/in/jenna-ingersoll](http://www.linkedin.com/in/jenna-ingersoll) <br />
+[Click to download full resume](https://drive.google.com/open?id=0B8WUv5172EuCQndhVzQzY1hQcWxfdmpORG1xMWhjZUM3TmxB)
 
 ## Portfolio Sample List
 
