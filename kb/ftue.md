@@ -1,6 +1,9 @@
+# Knowledge Base Article - Sample 1
 **NOTE:** All links in this document will return to the knowledge base overview.
 
-# Your First Day in Your Virtual Office
+---
+
+## Your First Day in Your Virtual Office
 
 Welcome to your virtual workplace, a unique digital solution designed to improve collaboration, morale, and connection among your team!
 
