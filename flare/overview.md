@@ -13,4 +13,5 @@ In an attempt to simplify the compilation process and standardize writing proced
 * Optimizing the web output for desktop, tablet and mobile viewers
 * Working with localization vendors to integrated SDL Trados with MadCap Lingo for translations
 
+![](chm.png)
 ![](bartender-help.PNG)
