@@ -14,4 +14,5 @@ In an attempt to simplify the compilation process and standardize writing proced
 * Working with localization vendors to integrated SDL Trados with MadCap Lingo for translations
 
 ![](chm.png)
+
 ![](bartender-help.PNG)
