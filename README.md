@@ -11,7 +11,9 @@ Technical Writing Professional - Seattle, WA<br />
     * [Online Help System (MadCap Flare)](flare/overview.md) - An online help system using MadCap Flare to create a single-source documentation platofrm that produces CHM, HTML and PDF deliverables. In addition, this system uses MadCap's localization tools to translate the documentation seamlessly into 5 different languages.
 * **Knowledge Bases** - A knowledge base serves a centralized repository to store and share written information, such as manuals, procedures, frequently asked questions, troubleshooting information and more. When used as a documentation tool, a knowledge base can provide a friendly, informal platform to answer questions and get to know more about a product or company. I had the pleasure of setting up a knowledge base for a private beta application:
 
-    * [Online Knowledge Base (HubSpot)](kb/overview.md) - Illustrates a knowledge base for frequently asked questions and troubleshooting information on a beta product.
-* Technical White Paper - 
+    * [Online Knowledge Base (HubSpot)](kb/overview.md) - A knowledge base containing product information, getting started steps, frequently asked questions and troubleshooting information on a beta application.
+* **Technical White Papers** - A technical white paper informs the reader about a specific, complex topic. Its purpose is to help the reader understand a complicated topic, resolve an issue, or make an informed decision.
+
+   * [Technical White Paper (MadCap Flare)](whitepaper/overview.md) - A technical white paper placeholder
 * API Reference Guide - Illustrates automatically generated API documentation using JSDoc. I implemented the entire system, from choosing and installing the tool(s) to writing the page templates, customizing the CSS, and hosting the documentation. The initial documentation was written by developers, and revised by my team of technical writers.
 
