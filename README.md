@@ -16,8 +16,8 @@ Technical Writing Professional - Seattle, WA<br />
 
     * [API Reference Guide (JavaScript)](js/overview.md) - An API reference guide generated from developer's comments using [JSDoc](https://jsdoc.app). I customized the page templates and stylesheets, wrote an API overview and hosted the documentation using GitHub Pages. I oversaw the revision of all developer comments, identifying erroneous documentation, adding missing information, and creating example code snippets.
     * [JavaScript Quick Start](js-tips/overview.md) - A quickstart guide to help new users get acquainted with using JavaScript for the first time. 
-    * [Developer Tutorials (JavaScript/C#/VB.NET)](tutorial/overview.md) - Examples of tutorials written to demonstrate how developers can use various APIs and implement advanced functionality in their custom apps. 
     * [Getting Started Guide (XML)](xml/overview.md) - A Getting Started manual on how to use a proprietary XML schema.
+    * [Developer Tutorials (JavaScript/C#/VB.NET)](tutorial/overview.md) - Examples of tutorials written to demonstrate how developers can use various APIs and implement advanced functionality in their custom apps. 
 
 * **Technical White Papers** - A technical white paper informs the reader about a specific, complex topic. Its purpose is to help the reader understand a complicated topic, resolve an issue, or make an informed decision.
 
