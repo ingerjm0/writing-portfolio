@@ -15,7 +15,7 @@ Technical Writing Professional - Seattle, WA<br />
 * **Developer Documentation** - Developer documentation meets the developer where they are, providing language-specific guidance, API references, and code samples to illustrate an API usage. Whether its developing a developer's quick start guide, a detailed API reference, example code snippets, or walk-through tutorials, I've enjoyed working with programmers in many different languages.
 
     * [API Reference Guide (JavaScript)](js/overview.md) - An API reference guide generated from developer's comments using [JSDoc](https://jsdoc.app). I customized the page templates and stylesheets, wrote an API overview and hosted the documentation using GitHub Pages. I oversaw the revision of all developer comments, identifying erroneous documentation, adding missing information, and creating example code snippets.
-    * [JavaScript Tips and Tricks](js-tips/overview.md) - A quickstart guide to help new users get acquainted with using JavaScript for the first time. 
+    * [JavaScript Quick Start](js-tips/overview.md) - A quickstart guide to help new users get acquainted with using JavaScript for the first time. 
     * [Developer Tutorials (JavaScript/C#/VB.NET)](tutorial/overview.md) - Examples of tutorials written to demonstrate how developers can use various APIs and implement advanced functionality in their custom apps. 
     * [Getting Started Guide (XML)](xml/overview.md) - A Getting Started manual on how to use a proprietary XML schema.
 
