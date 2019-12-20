@@ -13,4 +13,3 @@ This quick start was developed to help new scripters get acquainted with JavaScr
 
 * [Getting Started with JavaScript](scripting.html)
 * [Write Your Own Scripts](write-scripts.html)
-* [JavaScript Tips and Tricks](tips.html)
