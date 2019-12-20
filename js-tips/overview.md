@@ -9,4 +9,8 @@ This quick start was developed to help new scripters get acquainted with JavaScr
 * What are some things I can do with scripting?
 * Where can I learn more about scripting?
 
-[Click here to view 'Get Started with Scripting'](scripting.md)
+### Sample Chapters
+
+* [Getting Started with JavaScript](scripting.html)
+* [Write Your Own Scripts](write-scripts.html)
+* [JavaScript Tips and Tricks](tips.html)
