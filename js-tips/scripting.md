@@ -1,5 +1,4 @@
-# JavaScript Quick Start - Sample
-**NOTE:** All links in this document will return to the knowledge base overview.
+# JavaScript Quick Start - Sample Chapter 1
 
 [Return to Overview of JavaScript Quick Start](overview.html)
 
