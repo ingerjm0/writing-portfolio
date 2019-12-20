@@ -8,4 +8,4 @@ After ensuring that I understood the existing architecture, I recommended and pr
 
 The High Fidelity JavaScript API lets content creators and developers create new experiences and transform virtual worlds within the High Fidelity metaverse. 
 
-View the API reference here. 
+[View the API reference here](api/index.html). 
