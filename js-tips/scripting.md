@@ -1,7 +1,7 @@
 # JavaScript Quick Start - Sample
 **NOTE:** All links in this document will return to the knowledge base overview.
 
-[Return to JavaScript Quick Start](overview.html)
+[Return to JavaScript Quick Start Overview](overview.html)
 
 ---
 
@@ -35,7 +35,7 @@ High Fidelity comes with a collection of scripts designed to improve your experi
 
 To run a script:
 
-1. Open the ‘Running Scripts’ window.
+1. Open the 'Running Scripts' window.
 2. For scripts hosted in the cloud, click 'From URL'. Enter the URL of your script file and click 'OK'.
 3. For scripts on your local computer, click 'From Disk'. Browse to your script file and click 'Open'.
 4. To load a sample script, browse to the script at the bottom of the 'Running Scripts' window.
