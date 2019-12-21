@@ -4,18 +4,18 @@ An online help system is more than just pages of text. Its a form of user assist
 
 Click below to view samples of online help systems that I've designed, implemented, and written:
 
-<table style="float:auto; width:50%; border:none;">
+<table style="float:auto; border:none;">
   <tr>
     <td>
       <figure>
-        <a href="#sample-1---high-fidelity-online-docs"><img src="hifi-docs.png" width="150px" />
-          <figcaption style="font-size:smaller; font-style:italic; text-align:center;">Online System generated with Sphinx</figcaption></a>
+        <a href="#sample-1---high-fidelity-online-docs"><img src="hifi-docs.png" width="250px" />
+          <figcaption style="font-style:italic; text-align:center;">Online System generated with Sphinx</figcaption></a>
       </figure>
       </td>
     <td>
       <figure>
-        <a href="#sample-2---seagull-scientific-help-system"><img src="bartender-help.png" width="150px" />
-        <figcaption style="font-size:smaller; font-style:italic; text-align:center;">CHM and HTML5 Systems generated with MadCap Flare</figcaption></a>
+        <a href="#sample-2---seagull-scientific-help-system"><img src="bartender-help.png" width="250px" />
+        <figcaption style="font-style:italic; text-align:center;">CHM and HTML5 Systems generated with MadCap Flare</figcaption></a>
       </figure>
     </td>
   </tr>
