@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 .card {
+  font-size: .9rem;
   background-color: #FFFFFF;
   color: #000000;
   border: 1px solid #D3D3D3;
@@ -12,13 +13,19 @@
   padding: 15px 32px;
   width: 200px;
   display: inline-block;
-  font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
 }
 
 .card:hover {
   box-shadow: 0 2px 6px 0 rgba(0,0,0,0.16);
+}
+
+td a {
+  width: 100%;
+  display: block;
+  color: #000000;
+  text-decoration: none;
 }
 
 pre {
