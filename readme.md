@@ -13,13 +13,13 @@
 
 <table class="card">
   <tr>
-     <td><a href="kb/overview.html"><h2>Knowledge Bases</h2><p>A knowledge base serves a centralized repository to store and share written information, such as manuals, procedures, frequently asked questions, troubleshooting information and more. When used as a documentation tool, a knowledge base can provide a friendly, informal platform to answer questions and get to know more about a product or company.</p></a></td>
+     <td><a href="js/overview.html"><h2>Developer Documentation</h2><p>Developer documentation meets the developer where they are, providing language-specific guidance, API references, and code samples to illustrate an API usage. Whether its developing a developer's quick start guide, a detailed API reference, example code snippets, or walk-through tutorials, I've enjoyed working with programmers in many different languages.</p></a></td>
   </tr>
 </table>
 
 <table class="card">
   <tr>
-     <td><a href="js/overview.html"><h2>Developer Documentation</h2><p>Developer documentation meets the developer where they are, providing language-specific guidance, API references, and code samples to illustrate an API usage. Whether its developing a developer's quick start guide, a detailed API reference, example code snippets, or walk-through tutorials, I've enjoyed working with programmers in many different languages.</p></a></td>
+     <td><a href="kb/overview.html"><h2>Knowledge Bases</h2><p>A knowledge base serves a centralized repository to store and share written information, such as manuals, procedures, frequently asked questions, troubleshooting information and more. When used as a documentation tool, a knowledge base can provide a friendly, informal platform to answer questions and get to know more about a product or company.</p></a></td>
   </tr>
 </table>
 
