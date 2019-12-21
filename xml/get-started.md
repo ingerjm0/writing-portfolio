@@ -22,12 +22,12 @@ You can create BTXML script as a script or as a file and then send it to BarTend
         <th>Description</th>
     </tr></thead>
     <tbody><tr>
-        <td>Integration Builder</td>
-        <td>Integration Builder is a BarTender companion application that you can use to integrate BarTender with other software or other sources of data and to automate processes in BarTender. By using Integration Builder, you can create an integration that contains a Print BTXML Script action that you can configure to pass your BTXML script to BarTender to print one or more documents.</td>
+        <td><p>Integration Builder</p></td>
+        <td><p>Integration Builder is a BarTender companion application that you can use to integrate BarTender with other software or other sources of data and to automate processes in BarTender. By using Integration Builder, you can create an integration that contains a Print BTXML Script action that you can configure to pass your BTXML script to BarTender to print one or more documents.</p></td>
     </tr>
     <tr>
-        <td>BarTender .NET SDK</td>
-        <td>The BarTender .NET SDK interfaces with any .NET language and supports task-based concurrent label printing for high-demand environments such as web servers. It includes the following application programming interfaces (APIs) that support BTXML script:
+        <td><p>BarTender .NET SDK</p></td>
+        <td><p>The BarTender .NET SDK interfaces with any .NET language and supports task-based concurrent label printing for high-demand environments such as web servers. It includes the following application programming interfaces (APIs) that support BTXML script:</p>
             <ul>
                 <li><strong>Print API</strong>: Run BTXML with the Print API using the <code>Engine.XMLScript</code> method. This method passes either a BTXML script string or the path and file name of a file that contains BTXML Script.</li>
                 <li><strong>Print Server API</strong>: With the Print Server API, you can use instances of the <code>XMLScriptTask</code> class to run BTXML script. The XMLScriptTask task is then submitted to the task queue by either the <code>QueueTaskAndWait</code> method or the <code>QueueTask</code> method. The BTXML script can be used in either file or string mode. In file mode, the path to a BTXML script file is given, and the file is read at print time to automate BarTender. In string mode, the BTXML script itself is placed in the task and then used to perform automation.</li>
@@ -35,12 +35,12 @@ You can create BTXML script as a script or as a file and then send it to BarTend
         </td>
     </tr>
     <tr>
-        <td>ActiveX Automation</td>
-        <td>BarTender exposes the functionality of ActiveX Automation as a set of software objects. By using a programming or scripting language, such as Visual Basic or C#, you can use ActiveX Automation to pass BTXML scripts to BarTender by using the Application object XMLScript method.</td>
+        <td><p>ActiveX Automation</p></td>
+        <td><p>BarTender exposes the functionality of ActiveX Automation as a set of software objects. By using a programming or scripting language, such as Visual Basic or C#, you can use ActiveX Automation to pass BTXML scripts to BarTender by using the Application object XMLScript method.</p></td>
     </tr>
     <tr>
-        <td>Command Line Interface</td>
-        <td>You can configure BarTender functions to be performed automatically when BarTender starts by passing BTXML script via the command line interface. The BTXML script must be passed as a string or a file, and the /XMLScript parameter must be the last argument on the command line. The following example shows the correct syntax for passing a BTXML script string to BarTender for processing:
+        <td><p>Command Line Interface</p></td>
+        <td><p>You can configure BarTender functions to be performed automatically when BarTender starts by passing BTXML script via the command line interface. The BTXML script must be passed as a string or a file, and the /XMLScript parameter must be the last argument on the command line. The following example shows the correct syntax for passing a BTXML script string to BarTender for processing:</p>
             <pre>/XMLScript = "btxml_script_file"</pre>
         </td>
     </tr></tbody>
