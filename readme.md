@@ -7,7 +7,7 @@
 
 <table class="card">
   <tr>
-     <td><a href="sphinx/overview.html"><h2>Online Help Systems</h2><p>An online help system is more than just pages of text. Its a form of user assistance, designed to walk a user directly to the topic that will best help them. Great online help systems know their audience, simplify the navigation, and stay on top of the most recent technological and design trends.</p></a></td>
+     <td><a href="help/overview.html"><h2>Online Help Systems</h2><p>An online help system is more than just pages of text. Its a form of user assistance, designed to walk a user directly to the topic that will best help them. Great online help systems know their audience, simplify the navigation, and stay on top of the most recent technological and design trends.</p></a></td>
   </tr>
 </table>
 
