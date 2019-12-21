@@ -5,10 +5,15 @@ Technical Writing Professional - Seattle, WA<br />
 
 <table class="card">
   <tr>
-     <td><a href="sphinx/overview.html"><h3>Online Help Systems</h3><p>An online help system is more than just pages of text. Its a form of user assistance, designed to walk a user directly to the topic that will best help them. Great online help systems know their audience, simplify the navigation, and stay on top of the most recent technological and design trends.</p></a></td>
+     <td><a href="sphinx/overview.html"><h2>Online Help Systems</h2><p>An online help system is more than just pages of text. Its a form of user assistance, designed to walk a user directly to the topic that will best help them. Great online help systems know their audience, simplify the navigation, and stay on top of the most recent technological and design trends.</p></a></td>
   </tr>
 </table>
 
+<table class="card">
+  <tr>
+     <td><a href="kb/overview.html"><h2>Knowledge Bases</h2><p>A knowledge base serves a centralized repository to store and share written information, such as manuals, procedures, frequently asked questions, troubleshooting information and more. When used as a documentation tool, a knowledge base can provide a friendly, informal platform to answer questions and get to know more about a product or company.</p></a></td>
+  </tr>
+</table>
 
 
 ## Portfolio Sample List
