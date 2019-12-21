@@ -9,10 +9,15 @@ Click below to view samples of online help systems that I've designed, implement
     <td>
       <figure>
         <a href="#sample-1---high-fidelity-online-docs"><img src="hifi-docs.png" width="150px" />
-          <figcaption>Online System generated with Sphinx</figcaption></a>
+          <figcaption style="font-size:smaller; font-style:italic; text-align:center;">Online System generated with Sphinx</figcaption></a>
       </figure>
       </td>
-    <td><a href="#sample-2---seagull-scientific-help-system"><img src="bartender-help.png" width="150px" /></a></td>
+    <td>
+      <figure>
+        <a href="#sample-2---seagull-scientific-help-system"><img src="bartender-help.png" width="150px" />
+        <figcaption style="font-size:smaller; font-style:italic; text-align:center;">CHM and HTML5 Systems generated with MadCap Flare</figcaption></a>
+      </figure>
+    </td>
   </tr>
 </table>
 
