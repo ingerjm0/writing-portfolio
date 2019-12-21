@@ -41,6 +41,8 @@ View the system here: <a href="https://hifi-docs.readthedocs.io/en/latest" targe
 > NOTE: This copy of the online help system has been forked from High Fidelity's open source code base and is hosted using a free version of Read the Docs, which includes ads. These ads were removed in the final publication of the docs by purchasing a commerical license for Read the Docs.
 
 ---
+---
+---
 
 ## Sample 2 - Seagull Scientific Help System
 
