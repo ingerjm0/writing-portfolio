@@ -1,12 +1,9 @@
 # Jenna M Ingersoll
 {: style="text-align: center;"}
 
-<p style="text-align:center;">Technical Writing Professional - Seattle, WA &bull; <a href="www.linkedin.com/in/jenna-ingersoll"><img src="images/LI-In-Bug.png" width="20px;" /></a>   
-  <br />
+<p style="text-align:center;">Technical Writing Professional - Seattle, WA <br />
   <a href="https://drive.google.com/open?id=0B8WUv5172EuCQndhVzQzY1hQcWxfdmpORG1xMWhjZUM3TmxB">Click to download full resume</a>
 </p>
-
-
 
 <table class="card">
   <tr>
