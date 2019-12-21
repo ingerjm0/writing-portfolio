@@ -4,16 +4,16 @@
 @import "{{ site.theme }}";
 
 .card {
-  font-size: .9rem;
+  font-size: .7rem;
   background-color: #FFFFFF;
   color: #000000;
   border: 1px solid #D3D3D3;
-  border-radius: 2px;
+  border-radius: 4px;
   box-shadow: 0 0 4px 2px rgba(0,0,0,0.04);
-  padding: 15px 32px;
-  width: 200px;
+  padding: 25px 25px;
+  width: 175px;
   display: inline-block;
-  margin: 4px 2px;
+  margin: 10px;
   cursor: pointer;
 }
 
@@ -21,13 +21,13 @@
   box-shadow: 0 2px 6px 0 rgba(0,0,0,0.16);
 }
 
-td a {
+td a, a:hover, a:visited {
   width: 100%;
   display: block;
   color: #000000;
   text-decoration: none;
 }
-
+  
 pre {
   font-size: 8pt;
 }
