@@ -1,5 +1,16 @@
 # Online Help Systems
 
+An online help system is more than just pages of text. Its a form of user assistance, designed to walk a user directly to the topic that will best help them. Great online help systems know their audience, simplify the navigation, and stay on top of the most recent technological and design trends.
+
+Click below to view samples of online help systems that I've designed, implemented, and written:
+
+<table style="float:auto; width:100%; border:none;">
+  <tr>
+    <td><a href="#sample-1---high-fidelity-online-docs"><img src="hifi-docs.png" width="100px" /></a></td>
+    <td><a href="sample-2---seagull-scientific-help-system"><img src="bartender-help.png" width="100px" /></a></td>
+  </tr>
+</table>
+
 ## Sample 1 - High Fidelity Online Docs
 
 **Tools Used:** Sphinx, Read the Docs, Markdown, reStructuredText (RST), CSS, HTML5, Paint.NET
