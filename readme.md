@@ -23,6 +23,6 @@ Technical Writing Professional - Seattle, WA<br />
 
 <table class="card">
   <tr>
-    <td><a href="whitepaper/overview.html"><h2>Technical White Papers</h2><p>A technical white paper informs the reader about a specific, complex topic. Its purpose is to help the reader understand a complicated topic, resolve an issue, or make an informed decision.</td>
+    <td><a href="whitepaper/overview.html"><h2>Technical White Papers</h2><p>A technical white paper informs the reader about a specific, complex topic. Its purpose is to help the reader understand a complicated topic, resolve an issue, or make an informed decision.</p></td>
   </tr>
 </table>
