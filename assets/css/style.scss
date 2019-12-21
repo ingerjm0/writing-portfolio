@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+section {
+  width: 640px;
+}
+
+.wrapper {
+  width: 1000px;
+}
+
 .card {
   font-size: .7rem;
   background-color: #FFFFFF;
