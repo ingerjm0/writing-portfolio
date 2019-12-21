@@ -23,7 +23,7 @@ You can create BTXML script as a script or as a file and then send it to BarTend
     </tr></thead>
     <tbody><tr>
         <td><p>Integration Builder</p></td>
-        <td><p>Integration Builder is a BarTender companion application that you can use to integrate BarTender with other software or other sources of data and to automate processes in BarTender. By using Integration Builder, you can create an integration that contains a Print BTXML Script action that you can configure to pass your BTXML script to BarTender to print one or more documents.</p></td>
+        <td>Integration Builder is a BarTender companion application that you can use to integrate BarTender with other software or other sources of data and to automate processes in BarTender. By using Integration Builder, you can create an integration that contains a Print BTXML Script action that you can configure to pass your BTXML script to BarTender to print one or more documents.</td>
     </tr>
     <tr>
         <td><p>BarTender .NET SDK</p></td>
@@ -36,7 +36,7 @@ You can create BTXML script as a script or as a file and then send it to BarTend
     </tr>
     <tr>
         <td><p>ActiveX Automation</p></td>
-        <td><p>BarTender exposes the functionality of ActiveX Automation as a set of software objects. By using a programming or scripting language, such as Visual Basic or C#, you can use ActiveX Automation to pass BTXML scripts to BarTender by using the Application object XMLScript method.</p></td>
+        <td>BarTender exposes the functionality of ActiveX Automation as a set of software objects. By using a programming or scripting language, such as Visual Basic or C#, you can use ActiveX Automation to pass BTXML scripts to BarTender by using the Application object XMLScript method.</td>
     </tr>
     <tr>
         <td><p>Command Line Interface</p></td>
