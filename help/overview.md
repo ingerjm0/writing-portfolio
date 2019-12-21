@@ -39,4 +39,4 @@ In an attempt to simplify the compilation process and standardize writing proced
 
 ![](chm.png)
 
-![](bartender-help.PNG)
+![](bartender-help.png)
