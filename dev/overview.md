@@ -14,8 +14,8 @@ Click below to view samples of developer documentation that I've worked on in my
       </td>
     <td>
       <figure>
-        <a href="#sample-2---seagull-scientific-help-system"><img src="bartender-help.png" width="250px" />
-        <figcaption style="font-style:italic; text-align:center;">CHM and HTML5 Systems generated with MadCap Flare</figcaption></a>
+        <a href="#sample-3---javascript-quick-start"><img src="quick-start.png" width="250px" />
+        <figcaption style="font-style:italic; text-align:center;">JavaScript Quick Start included in online help system</figcaption></a>
       </figure>
     </td>
   </tr>
