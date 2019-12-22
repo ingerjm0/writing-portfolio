@@ -15,7 +15,7 @@ Click below to view samples of developer documentation that I've worked on in my
     <td>
       <figure>
         <a href="#sample-3---javascript-quick-start"><img src="quick-start.png" width="250px" />
-        <figcaption style="font-style:italic; text-align:center;">JavaScript Quick Start included in online help system</figcaption></a>
+        <figcaption style="font-style:italic; text-align:center;">JavaScript Quick Start</figcaption></a>
       </figure>
     </td>
   </tr>
