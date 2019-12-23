@@ -21,7 +21,11 @@ Click below to view samples of online help systems that I've designed, implement
   </tr>
 </table>
 
-## Sample 1 - High Fidelity Online Docs
+<div style="width:100%"; background:aliceblue; padding-top:25px; padding-bottom:25px;>
+  
+# Samples of Online Help Systems
+
+## High Fidelity Online Docs
 
 **Tools Used:** Sphinx, Read the Docs, Markdown, reStructuredText (RST), CSS, HTML5, Paint.NET
 
@@ -40,11 +44,11 @@ View the system here: <a href="https://hifi-docs.readthedocs.io/en/latest" targe
 
 > NOTE: This copy of the online help system has been forked from High Fidelity's open source code base and is hosted using a free version of Read the Docs, which includes ads. These ads were removed in the final publication of the docs by purchasing a commerical license for Read the Docs.
 
----
----
----
+</div>
 
-## Sample 2 - Seagull Scientific Help System
+<hr>
+
+## Seagull Scientific Help System (CHM, HTML5)
 
 **Tools Used:** MadCap Flare, Lingo, Capture and Contributor, Perforce, SDL Trados, HTML, CSS, HTML5, Paint.NET
 
