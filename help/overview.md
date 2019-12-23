@@ -40,8 +40,10 @@ An online help system is more than just pages of text. Its a form of user assist
 <h2 style="color:silver;">Seagull Scientific Help System (CHM, HTML5)</h2>
 
 <p>
-  <img src="bartender-help.png" width="400px" />
-  <strong>Tools Used:</strong> MadCap Flare, Lingo, Capture and Contributor, Perforce, SDL Trados, HTML, CSS, HTML5, Paint.NET</p>
+  <figure style="float:right;">
+    <img src="bartender-help.png" width="400px" />
+      <figcaption style="font-style:italic; text-align:center;">HTML5 and CHM Help Systems generated with MadCap Flare</figcaption></a>
+  </figure>  <strong>Tools Used:</strong> MadCap Flare, Lingo, Capture and Contributor, Perforce, SDL Trados, HTML, CSS, HTML5, Paint.NET</p>
 
 <p>When I started as a Technical Writer at Seagull in 2009, all of the documentation was compiled using HTML Help Workshop. For those technical writers who have been around a while, HTML Help Workshop created CHM files, or compressed help windows that are directly integrated into the software product. It was discontinued in 2003, 6 years prior. </p>
 
