@@ -21,7 +21,7 @@ Click below to view samples of online help systems that I've designed, implement
   </tr>
 </table>
 
-<div style="width:100%"; background:aliceblue; padding-top:25px; padding-bottom:25px;>
+<div style="width:100%; background:aliceblue; padding-top:25px; padding-bottom:25px;">
   
 # Samples of Online Help Systems
 
