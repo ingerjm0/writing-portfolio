@@ -1,8 +1,7 @@
 # Online Help Systems
+{: style="text-align: center;"}
 
 An online help system is more than just pages of text. Its a form of user assistance, designed to walk a user directly to the topic that will best help them. Great online help systems know their audience, simplify the navigation, and stay on top of the most recent technological and design trends.
-
-Click below to view samples of online help systems that I've designed, implemented, and written:
 
 <table style="float:auto; border:none;">
   <tr>
@@ -21,12 +20,18 @@ Click below to view samples of online help systems that I've designed, implement
   </tr>
 </table>
 
+<h1 style="text-align:center">Samples of Online Help Systems</h1>
+
 <div style="width:100%; background:aliceblue; padding:25px;">
-  
-<h1>Samples of Online Help Systems</h1>
+ 
 <h2>High Fidelity Online Docs</h2>
 
-<p><strong>Tools Used:</strong> Sphinx, Read the Docs, Markdown, reStructuredText (RST), CSS, HTML5, Paint.NET</p>
+<p>
+  <figure style="float:right;">
+    <a href="#sample-1---high-fidelity-online-docs"><img src="hifi-docs.png" width="250px" />
+      <figcaption style="font-style:italic; text-align:center;">Online System generated with Sphinx</figcaption></a>
+  </figure>
+  <strong>Tools Used:</strong> Sphinx, Read the Docs, Markdown, reStructuredText (RST), CSS, HTML5, Paint.NET</p>
 <p>In this project, I retained content from Markdown files and used them to create a robust documentation system that includes:</p>
 
 <ul>
@@ -45,8 +50,6 @@ Click below to view samples of online help systems that I've designed, implement
 <p>View the system here: <a href="https://hifi-docs.readthedocs.io/en/latest" target="_blank">https://hifi-docs.readthedocs.io</a></p>
 
 </div>
-
-<hr>
 
 ## Seagull Scientific Help System (CHM, HTML5)
 
