@@ -47,7 +47,7 @@ The High Fidelity JavaScript API lets content creators and developers create new
 
 [View the API reference here](api/index.html). 
 
-<hr style="text-align:center; width:75%;" />
+<hr style="float:auto; width:75%;" />
 
 ## Sample 3 - JavaScript Quick Start
 
@@ -65,7 +65,7 @@ This quick start was developed to help new scripters get acquainted with JavaScr
 * [Getting Started with JavaScript](scripting.html)
 * [Write Your Own Scripts](write-scripts.html)
 
-<hr style="text-align:center; width:75%;" />
+<hr style="float:auto; width:75%;" />
 
 ## Sample 4 - Getting Started Guide (XML)
 
