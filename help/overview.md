@@ -21,28 +21,28 @@ Click below to view samples of online help systems that I've designed, implement
   </tr>
 </table>
 
-<div style="width:100%; background:aliceblue; padding-top:25px; padding-bottom:25px;">
+<div style="width:100%; background:aliceblue; padding:25px;">
   
-# Samples of Online Help Systems
+<h1>Samples of Online Help Systems</h1>
+<h2>High Fidelity Online Docs</h2>
 
-## High Fidelity Online Docs
+<p><strong>Tools Used:</strong> Sphinx, Read the Docs, Markdown, reStructuredText (RST), CSS, HTML5, Paint.NET</p>
+<p>In this project, I retained content from Markdown files and used them to create a robust documentation system that includes:</p>
 
-**Tools Used:** Sphinx, Read the Docs, Markdown, reStructuredText (RST), CSS, HTML5, Paint.NET
+<ul>
+  <li>Mature, clean and customizable HTML themes to provide a great user experience</li>
+  <li>Advanced full-text search functionality</li>
+  <li>Content reuse through includes</li>
+  <li>Referencing across multiple pages and projects</li>
+  <li>Single source publishing (HTML, PDF, ePub and more)</li>
+  <li>Version control</li>
+</ul>
 
-This project called for a cost-effective, but flexible system to create, generate, customize and host an online documentation system for an open source platform. This online help system uses [Sphinx](http://www.sphinx-doc.org) to generate the documentation, and [Read the Docs](https://readthedocs.org) to publish/host it. GitHub is a helpful middleman and stores all of the docs.
+<p>The High Fidelity documentation system uses <a href="http://www.sphinx-doc.org">Sphinx</a> to generate the documentation, and <a href="https://readthedocs.org">Read the Docs</a> to publish/host it. GitHub is a helpful middleman and stores all of the docs.</p>
 
-I researched the available content management and hosting tools, and selected this one -- it is low cost, easy to use, and creates many high-end features such as localization support and optimized search capability. From there, I customized the native templates using CSS and HTML to match company branding and optimize the help system's structure. I then led my team through the migration of all content from Grav to Sphinx/Read the Docs. 
+<p>High Fidelity is available as an open-source platform, and all content is forked and hosted according to the distribution requirements set out in the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>. </p>
 
-Following the conversion, I continued to implement continual improvements to the system, including:
-
-* Creation of a new information architecture
-* Simplications to stylesheets and templates for future maintenance
-* Addition of release notes
-* Addition and revision of new content as requested
-
-View the system here: <a href="https://hifi-docs.readthedocs.io/en/latest" target="_blank">https://hifi-docs.readthedocs.io</a>
-
-> NOTE: This copy of the online help system has been forked from High Fidelity's open source code base and is hosted using a free version of Read the Docs, which includes ads. These ads were removed in the final publication of the docs by purchasing a commerical license for Read the Docs.
+<p>View the system here: <a href="https://hifi-docs.readthedocs.io/en/latest" target="_blank">https://hifi-docs.readthedocs.io</a></p>
 
 </div>
 
