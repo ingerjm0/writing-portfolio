@@ -50,7 +50,7 @@ An online help system is more than just pages of text. Its a form of user assist
 <p>To simplify the compilation process and standardize writing procedures, I migrated the documentation over to MadCap Flare. This required: </p>
 
 <ul>
-  <li>Setting up a revision control system in Perforce </li
+ <li>Setting up a revision control system in Perforce </li>
  <li>Creating a MadCap Flare project to handle 2000+ content pages</li>
  <li>Defining a process to create CHM files</li>
  <li>Modernizing our deliverables by creating an online help system in addition to the CHM output</li>
