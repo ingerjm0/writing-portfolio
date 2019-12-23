@@ -3,23 +3,6 @@
 
 An online help system is more than just pages of text. Its a form of user assistance, designed to walk a user directly to the topic that will best help them. Great online help systems know their audience, simplify the navigation, and stay on top of the most recent technological and design trends.
 
-<table style="float:auto; border:none;">
-  <tr>
-    <td>
-      <figure>
-        <a href="#sample-1---high-fidelity-online-docs"><img src="hifi-docs.png" width="250px" />
-          <figcaption style="font-style:italic; text-align:center;">Online System generated with Sphinx</figcaption></a>
-      </figure>
-      </td>
-    <td>
-      <figure>
-        <a href="#sample-2---seagull-scientific-help-system"><img src="bartender-help.png" width="250px" />
-        <figcaption style="font-style:italic; text-align:center;">CHM and HTML5 Systems generated with MadCap Flare</figcaption></a>
-      </figure>
-    </td>
-  </tr>
-</table>
-
 <h1 style="text-align:center">Samples of Online Help Systems</h1>
 
 <div style="width:100%; background:aliceblue; padding:25px;">
@@ -28,7 +11,7 @@ An online help system is more than just pages of text. Its a form of user assist
 
 <p>
   <figure style="float:right;">
-    <a href="#sample-1---high-fidelity-online-docs"><img src="hifi-docs.png" width="250px" />
+    <a href="#sample-1---high-fidelity-online-docs"><img src="hifi-docs.png" width="400px" />
       <figcaption style="font-style:italic; text-align:center;">Online System generated with Sphinx</figcaption></a>
   </figure>
   <strong>Tools Used:</strong> Sphinx, Read the Docs, Markdown, reStructuredText (RST), CSS, HTML5, Paint.NET</p>
