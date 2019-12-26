@@ -1,15 +1,34 @@
-## Online Knowledge Base
+# Knowledge Bases
 
-**Tools Used:** HubSpot, Paint.NET, Markdown, HTML
+A knowledge base serves a centralized repository to store and share written information, such as manuals, procedures, frequently asked questions, troubleshooting information and more. When used as a documentation tool, a knowledge base can provide a friendly, informal platform to answer questions and get to know more about a product or company.
 
-This project involved creating an online searchable knowledge base for a new, early-access beta software application. I identified the top user stories and developed categories to match what users would want to know. I then conceptualized and wrote all of the content for the knowledge base. Working closely with the Marketing team, I then developed a design that was clean and consistent with the company's branding strategy. 
+# Samples of Knowledge Bases
 
-**Sample Articles**
+<div style="width:100%; background:aliceblue; padding:25px;">
+  
+<h2>Virtual Workplace Help Center</h2>
 
-* [Your First Day in Your Virtual Office](ftue.html) - Getting Started
-* [How do I adjust my audio and microphone settings?](audio.html) - FAQ
-* [Using Rivet Killer Network Cards](rivet.html) - Troubleshooting
+<p>
+  <figure style="float:right;">
+    <img src="knowledge-base.png" width="400px" />
+      <figcaption style="font-style:italic; text-align:center;">Online System generated with Sphinx</figcaption>
+  </figure>
+  <strong>Tools Used:</strong> HubSpot, Paint.NET, Markdown, HTML</p>
 
-All images were edited using the open source software, Paint.NET. Pages were written and formatted in Markdown, with minor edits made using HTML. 
+<p>This project involved creating an online searchable knowledge base for a new, early-access beta software application. To complete this task, I successfully:</p>
 
-![knowledge-base](knowledge-base.png)
+<ul>
+  <li>Identified the top user stories and developed categories to match our customer's needs</li>
+  <li>Conceptualized and wrote all of the content for the knowledge base</li>
+  <li>Developed a design that was clean and consistent with the company's branding strategy. </li>
+</ul>
+
+<p><strong>Sample Articles</strong></p>
+  
+<ul>
+  <li><a href="ftue.html">Your First Day in Your Virtual Office</a> - Getting Started</li>
+  <li><a href="audio.html">How do I adjust my audio and microphone settings?</a> - FAQ</li>
+  <li><a href="rivet.html">Using Rivet Killer Network Cards</a> - Troubleshooting</li>
+</ul>
+
+</div>
