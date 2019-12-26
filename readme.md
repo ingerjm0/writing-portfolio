@@ -22,9 +22,3 @@
      <td><a href="kb/overview.html"><h2>Knowledge Bases</h2><p>A knowledge base serves a centralized repository to store and share written information, such as manuals, procedures, frequently asked questions, troubleshooting information and more. When used as a documentation tool, a knowledge base can provide a friendly, informal platform to answer questions and get to know more about a product or company.</p></a></td>
   </tr>
 </table>
-
-<table class="card">
-  <tr>
-    <td><a href="whitepaper/overview.html"><h2>Technical White Papers</h2><p>A technical white paper informs the reader about a specific, complex topic. Its purpose is to help the reader understand a complicated topic, resolve an issue, or make an informed decision.</p></a></td>
-  </tr>
-</table>
