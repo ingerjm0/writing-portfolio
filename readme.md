@@ -32,7 +32,7 @@ I am a motivated, proactive professional experienced in writing quality technica
   </tr>
 </table>
 
-<table class="card" style="margin-left: auto; margin-right:auto;>
+<table class="card" style="margin-left: auto; margin-right:auto;">
   <tr>
      <td><a href="kb/overview.html"><h2>Knowledge Bases</h2><p>A knowledge base serves a centralized repository to store and share written information, such as manuals, procedures, frequently asked questions, troubleshooting information and more. When used as a documentation tool, a knowledge base can provide a friendly, informal platform to answer questions and get to know more about a product or company.</p></a></td>
   </tr>
