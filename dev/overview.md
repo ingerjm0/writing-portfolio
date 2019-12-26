@@ -59,7 +59,7 @@ Developer documentation meets the developer where they are, providing language-s
 <p>
   <figure style="float:right;">
     <img src="xml-script.png" width="400px" />
-      <figcaption style="font-style:italic; text-align:center;">Getting Started Guide for XML</figcaption></a>
+      <figcaption style="font-style:italic; text-align:center;">Getting Started Guide for XML</figcaption>
   </figure>
   <strong>Tools Used:</strong> MadCap Flare, Perforce, XML, HTML, CSS</p>
 
