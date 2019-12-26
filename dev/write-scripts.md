@@ -1,6 +1,6 @@
 # JavaScript Quick Start - Sample Chapter 2
 
-[Return to Overview of JavaScript Quick Start](overview.html)
+[Return to Developer Documentation](overview.html)
 
 ---
 
