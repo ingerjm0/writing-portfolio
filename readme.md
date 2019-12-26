@@ -16,9 +16,9 @@ I am a motivated and proactive professional experienced in managing teams of wri
 **Areas of Expertise:** Technical Writing ▫ Content Strategy ▫ Instructional Design and Curriculum Development ▫ Training and Education ▫ UI/UX Design ▫ Program Management ▫ Software Development ▫ Quality Assurance
 {: style="text-align: center; width:80%; margin-left:auto; margin-right:auto;"}
 
-### CLICK BELOW TO VIEW SAMPLES OF MY WORK
-{: style="text-align: center;}
 
+## CLICK BELOW TO VIEW SAMPLES OF MY WORK
+{: style="text-align: center;"}
 
 <table class="card">
   <tr>
