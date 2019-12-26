@@ -10,7 +10,7 @@ A knowledge base serves a centralized repository to store and share written info
 
 <p>
   <figure style="float:right;">
-    <img src="knowledge-base.png" width="400px" />
+    <img src="knowledge-base.png" width="375px" />
       <figcaption style="font-style:italic; text-align:center;">Online System generated with Sphinx</figcaption>
   </figure>
   <strong>Tools Used:</strong> HubSpot, Paint.NET, Markdown, HTML</p>
