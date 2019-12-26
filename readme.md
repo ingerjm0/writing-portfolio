@@ -10,7 +10,7 @@
 Hello! I'm Jenna Ingersoll, a Seattle-based documentation specialist, educator, UX designer and program manager. My love of technology and writing drives me to deliver top-quality products that are understandable, easy to use, and intuitive. My diverse professional experience allows me to engage with others on a personal level - whether its collaborating on comprehensive content strategy plans, working with developers to design and create quality software, or hiring and mentoring top-notch talent.
 {: style="width:80%; margin-left:auto; margin-right:auto;"}
 
-I am a motivated and proactive professional experienced in managing teams of writers and developers, writing quality technical documentation, training and providing quality customer care. Want to know more? Message me!
+I am a motivated, proactive professional experienced in writing quality technical documentation, conducting in-depth training sessions, managing teams of writers and developers, and providing excellent customer care. Want to know more? Message me!
 {: style="width:80%; margin-left:auto; margin-right:auto;"}
 
 **Areas of Expertise:** Technical Writing ▫ Content Strategy ▫ Instructional Design and Curriculum Development ▫ Training and Education ▫ UI/UX Design ▫ Program Management ▫ Software Development ▫ Quality Assurance
