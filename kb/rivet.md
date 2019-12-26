@@ -1,6 +1,6 @@
 # Knowledge Base Article - Sample 3
 
-[Return to Knowledge Base Samples](overview.html)
+[Return to Knowledge Bases](overview.html)
 
 ---
 
