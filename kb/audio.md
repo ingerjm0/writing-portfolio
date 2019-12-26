@@ -1,6 +1,6 @@
 # Knowledge Base Article - Sample 2
 
-[Return to Knowledge Base Samples](overview.html)
+[Return to Knowledge Bases](overview.html)
 
 ---
 
@@ -33,11 +33,3 @@ From the most basic to the more advanced, here's how you can adjust your adjust 
         3. Go to **Control Panel > Hardware and Sound > Adjust System Volume**
 
 * Some headsets have external software that let you fine-tune their settings. Open these proprietary tools to adjust their settings
-
-
-
-
-
-
-
-
