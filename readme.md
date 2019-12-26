@@ -2,6 +2,7 @@
 {: style="text-align: center; font-size:2.5em;"}
 
 <p style="text-align:center;">Technical Writing Professional - Seattle, WA <br />
+  <a href="mailto:jenna.m.ingersoll@gmail.com">Contact via Email</a> <br />
   <a href="https://drive.google.com/open?id=0B8WUv5172EuCQndhVzQzY1hQcWxfdmpORG1xMWhjZUM3TmxB">Click to download full resume</a>
 </p>
 
