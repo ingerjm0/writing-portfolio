@@ -1,5 +1,5 @@
 # Jenna M Ingersoll
-{: style="text-align: center;"}
+{: style="text-align: center; font-size:1.2rem;"}
 
 <p style="text-align:center;">Technical Writing Professional - Seattle, WA <br />
   <a href="https://drive.google.com/open?id=0B8WUv5172EuCQndhVzQzY1hQcWxfdmpORG1xMWhjZUM3TmxB">Click to download full resume</a>
