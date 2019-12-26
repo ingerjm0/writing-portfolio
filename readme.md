@@ -16,6 +16,10 @@ I am a motivated and proactive professional experienced in managing teams of wri
 **Areas of Expertise:** Technical Writing ▫ Content Strategy ▫ Instructional Design and Curriculum Development ▫ Training and Education ▫ UI/UX Design ▫ Program Management ▫ Software Development ▫ Quality Assurance
 {: style="text-align: center; width:80%; margin-left:auto; margin-right:auto;"}
 
+### CLICK BELOW TO VIEW SAMPLES OF MY WORK
+{: style="text-align: center;}
+
+
 <table class="card">
   <tr>
      <td><a href="help/overview.html"><h2>Online Help Systems</h2><p>An online help system is more than just pages of text. Its a form of user assistance, designed to walk a user directly to the topic that will best help them. Great online help systems know their audience, simplify the navigation, and stay on top of the most recent technological and design trends.</p></a></td>
