@@ -1,5 +1,3 @@
-# Developer Tutorial - Sample 1
-
 [Return to Developer Documentation](overview.html)
 
 ---
