@@ -77,11 +77,12 @@ Developer documentation meets the developer where they are, providing language-s
 
 <p>
   <figure style="float:right;">
-    <img src="portal-tutorial.png" width="400px" />
-      <figcaption style="font-style:italic; text-align:center;">Tutorial: Create a Portal</figcaption>
+    <a href="portal.html"><img src="portal-tutorial.png" width="400px" />
+      <figcaption style="font-style:italic; text-align:center;">Tutorial: Create a Portal</figcaption></a>
   </figure>
   <strong>Tools Used:</strong> High Fidelity, JavaScript, JSDoc, Markdown, GitHub Pages</p>
 
 <p>For this project, I developed a tutorial that instructed our users how to achieve advanced functionality with High Fidelity's open source platform using scripting. Specifically, this tutorial walks someone through the creation of an object, then scripts its behavior to transport an avatar to another location in the metaverse. </p>
 <p>The entire goal of this project (and its accompanying tutorials) is to educate users on the immense functionality that the JavaScript API provides. Here, I break down an advanced feature to its simplest parts so that creators with basic scripting knowledge can learn from the samples and develop their own functionality through scripting.</p>
+<p><a href="portal.html">Click here to view 'Tutorial: Create a Portal'</a></p>
 </div>
