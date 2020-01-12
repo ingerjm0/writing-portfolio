@@ -11,8 +11,8 @@ NOTE: These are all examples based off of of project plans that I've created, bu
 <h2>Reorganization of Help System</h2>
 
 <p>
-  <figure style="float:right;">
-    <img src="man-standing-infront-of-white-board-1181345.jpg" width="400px" />
+  <figure style="float:right; margin-top:-20px;">
+    <img src="arts-build-close-up-commerce-273230.jpg" width="200px" />
   </figure>
   
 The objective of this documentation project is to organize and structure a company's user docs in an intuitive and easy-to-use Table of Contents. In addition, the existing content will be audited: existing pages will be evaluated for accuracy and consistency, missing concepts will be documented, and obsolete information will be removed.</p>
@@ -26,8 +26,8 @@ The objective of this documentation project is to organize and structure a compa
 <h2>Knowledge Base Implementation</h2>
 
 <p>
-  <figure style="float:right;">
-    <img src="arts-build-close-up-commerce-273230.jpg" width="400px" />
+  <figure style="float:right; margin-top:-20px;">
+    <img src="man-standing-infront-of-white-board-1181345.jpg" width="200px" />
   </figure>
   
 The objective of this Marketing project is to create a knowledge base and support system for a private-release beta software product.</p>
