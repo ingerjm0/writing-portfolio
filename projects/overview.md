@@ -6,17 +6,20 @@ Every project plan tells a story about the project's background, goals, teams, a
 
 <div style="width:100%; background:aliceblue; padding:25px;">
 
-<h2>Reorganization of Help System TOC</h2>
+<h2>Reorganization of Help System</h2>
 
-<p>
-  <figure style="float:right;">
-    <a href="api/index.html"><img src="api-ref.png" width="400px" />
-      <figcaption style="font-style:italic; text-align:center;">API Reference generated with JSDoc</figcaption></a>
-  </figure>
-  </p>
+<p>The objective of this documentation project is to organize and structure High Fidelity's user docs in an intuitive and easy-to-use Table of Contents. In addition, the existing content will be audited: existing pages will be evaluated for accuracy and consistency, missing concepts will be documented, and obsolete information will be removed.</p>
 
-<p>The objective of this documentation project is to organize and structure High Fidelity's user docs in an intuitive and easy-to-use Table of Contents. As needed, the existing content audited: existing pages will be evaluated for accuracy and consistency, missing concepts will be documented, and obsolete information will be removed.</p>
+<p>View the project plan: <a href="toc.html">Reorganization of Help System</a>.</p>
 
-<p>View the project plan: <a href="toc.html">Information Architecture Overhaul</a>.</p>
+</div>
+
+<div style="width:100%; background:lightgray; padding:25px;">
+
+<h2>Knowledge Base Implementation</h2>
+
+<p>The objective of this Marketing project is to create a knowledge base and support system for a private-release beta software product.</p>
+
+<p>View the project plan: <a href="kb.html">Knowledge Base Implementation</a>.</p>
 
 </div>
