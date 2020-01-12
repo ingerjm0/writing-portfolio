@@ -6,7 +6,7 @@
 
 ## Objective
 
-To organize and structure our Interface user docs in an effective and sustainable way (https://docs.highfidelity.com)
+To organize and structure our online help system in an effective and sustainable way
 
 ## Concepts 
 
@@ -40,49 +40,49 @@ The new structure must follow these rules to ensure that it abides by the "Conce
       <td>1</td>
       <td>Draft New TOC</td>
       <td>Mock out new Table of Contents structure according to the requirements laid out; gain sign off from stakeholders</td>
-      <td>Jenna</td>
+      <td>Docs Manager (Kerry)</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Implement TOC</td>
       <td>Create project with placeholders for the content pages. New project will reflect approved TOC.</td>
-      <td>Jenna</td>
+      <td>Docs Manager (Kerry)</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Audit existing content</td>
       <td>Audit existing help system's content: identify obsolete content; propose where relevant content fits in new structure and any revisions that need to be made; identify missing content that needs to be written.</td>
-      <td>Karen</td>
+      <td>Tech Writer (Karen)</td>
     </tr>
     <tr>
       <td>4</td>
       <td>New Content</td>
       <td>Write new pages for missing content; add to new project.</td>
-      <td>Olan</td>
+      <td>Tech Writer (Olan)</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Existing Content</td>
       <td>Edit existing relevant content and add to new project.</td>
-      <td>Karen</td>
+      <td>Tech Writer (Karen)</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Editorial Review</td>
       <td>Each technical writer/team member locally compiles and reviews the new project for errors. Keep an eye out for compilation errors, broken links, grammatical errors, formatting issues, etc.</td>
-      <td>Jenna, Karen, Olan</td>
+      <td>Kerry, Karen, Olan</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Sign off</td>
       <td>Present staged deliverable for sign off.</td>
-      <td>Jenna</td>
+      <td>Docs Manager (Kerry)</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Deploy</td>
       <td>Work with Marketing on release schedule. Minor release = no email announcement, simply a forum post. Deploy via GitHub commit. </td>
-      <td>Jenna</td>
+      <td>Docs Manager (Kerry)</td>
     </tr> 
   </tbody>
 </table>
@@ -91,10 +91,10 @@ The new structure must follow these rules to ensure that it abides by the "Conce
 
 The top-level books describe what someone is trying to do:
 
-* **EXPLORE** - For those who want to hang out with friends, visit places, discover fun things in High Fidelity
-* **CREATE** - For those who want create items and (maybe) sell them on the Marketplace
+* **EXPLORE** - For those who want to hang out with friends, visit places, discover fun things
+* **CREATE** - For those who want create items
 * **SCRIPT** - For those users who want to be delve deeper (with scripting) as an "advanced" user
 * **HOST** - For those who want to build experiences for others and want to operate a domain as admin
-* **SELL** - For those who want to sell their creations in High Fidelity
-* **CONTRIBUTE** - For those who want to connect with us or contribute to the development of High Fidelity
+* **SELL** - For those who want to sell their creations on the Marketplace
+* **CONTRIBUTE** - For those who want to connect with us or contribute to the development of our product
 
