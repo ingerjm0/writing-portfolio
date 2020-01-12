@@ -26,7 +26,7 @@ The objective of this documentation project is to organize and structure a compa
 <h2>Knowledge Base Implementation</h2>
 
 <p>
-  <figure style="float:right; margin-top:-20px;">
+  <figure style="float:right; margin-top:-35px;">
     <img src="man-standing-infront-of-white-board-1181345.jpg" width="200px" />
   </figure>
   
