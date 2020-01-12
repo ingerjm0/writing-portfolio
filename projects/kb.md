@@ -76,6 +76,7 @@ Create a knowledge base system for a brand-new application where users can find 
       <td>Marketing Admin (George)</td>
     </tr>
   </tbody>
+</table>
 
 ## Limitations
 
