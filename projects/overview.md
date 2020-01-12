@@ -17,7 +17,7 @@ NOTE: These are all examples based off of project plans that I've created, but d
   
 The objective of this documentation project is to organize and structure a company's user docs in an intuitive and easy-to-use Table of Contents. In addition, the existing content will be audited: existing pages will be evaluated for accuracy and consistency, missing concepts will be documented, and obsolete information will be removed.</p>
 
-<p>View the project plan: <a href="toc.html">Reorganization of Help System</a>.</p>
+<p>View the project plan: <a href="toc.html">Reorganization of Help System</a></p>
 
 </div>
 
@@ -32,6 +32,6 @@ The objective of this documentation project is to organize and structure a compa
   
 The objective of this Marketing project is to create a knowledge base and support system for a private-release beta software product.</p>
 
-<p>View the project plan: <a href="kb.html">Knowledge Base Implementation</a>.</p>
+<p>View the project plan: <a href="kb.html">Knowledge Base Implementation</a></p>
 
 </div>
