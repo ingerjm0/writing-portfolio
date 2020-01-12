@@ -2,7 +2,7 @@
 
 Every project plan tells a story about the project's background, goals, teams, and deliverables. Just like a creative narrative, a project plan fills in details and a timeline in chapters (or phases) and ensures a "happily ever after" for the stakeholders. It serves as a roadmap that shows a project's phases, key activities, dependencies between tasks, and project milestones.
 
-NOTE: These are all examples based off of of project plans that I've created, but do not reflect any proprietary work done for any employer. All names, projects, deadlines, etc. are made up for the purpose of this portfolio. 
+NOTE: These are all examples based off of project plans that I've created, but do not reflect any proprietary work done for any employer. All names, projects, deadlines, etc. are made up for the purpose of this portfolio. 
 
 # Samples of Project Plans and Functional Specifications
 
