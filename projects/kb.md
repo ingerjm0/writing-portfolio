@@ -6,13 +6,13 @@
 
 ## Objective
 
-Create a documentation system for High Fidelity Workplace that users can find on their own, and get answers to support questions.
+Create a knowledge base system for a brand-new application where users can find answers to their questions easily and contact support for more information.
 
 ## Requirements
 
-* Create a knowledge base using HubSpot's internal tools
-* Include support form that automatically creates tickets in HubSpot
-* GDPR support: Legitimate Interest
+* Create a knowledge base using existing tools
+* Include support form to automatically create support tickets
+* Follow GDPR regulations 
 * Contains "Getting Started" articles
 * Contains FAQ
 * Contains "Troubleshooting" steps
@@ -28,12 +28,12 @@ Create a documentation system for High Fidelity Workplace that users can find on
   <tbody>
     <tr>
       <td>1</td>
-      <td>Activate Knowledge Base in HubSpot</td>
+      <td>Activate Knowledge Base in website toolset</td>
       <td>Marketing Admin (George)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Set up support form in HubSpot</td>
+      <td>Set up support form in website toolset</td>
       <td>Director of Support (Sarah)</td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@ Create a documentation system for High Fidelity Workplace that users can find on
 
 ## Limitations
 
-Limitations of using HubSpot's knowledge base: 
+Limitations of using website's toolset for knowledge base: 
 
 * Lack of customization options (fonts, intro text, etc)
 * Articles have limited formatting (i.e. no tables)
