@@ -42,9 +42,9 @@ An online help system is more than just pages of text. Its a form of user assist
     <img src="bartender-help.png" width="400px" />
       <figcaption style="font-style:italic; text-align:center;">HTML5 and CHM Help Systems generated with MadCap Flare</figcaption>
   </figure>
- <strong>Tools Used:</strong> MadCap Flare, Lingo, Capture and Contributor, Perforce, SDL Trados, HTML, CSS, HTML5, Paint.NET</p>
+ <strong>Tools Used:</strong> MadCap Flare, Lingo, Capture and Contributor, Perforce, SDL Trados, HTML, CSS, Paint.NET</p>
 
-<p>When I started as a Technical Writer at Seagull in 2009, all of the documentation was compiled using HTML Help Workshop. For those technical writers who have been around a while, HTML Help Workshop created CHM files, or compressed help windows that are directly integrated into the software product. It was discontinued in 2003, 6 years prior. </p>
+<p>When I started as a Technical Writer at Seagull in 2009, all of the documentation was maintained and compiled using HTML Help Workshop. For those technical writers who have been around a while, HTML Help Workshop created CHM files, or compressed help windows that are directly integrated into the software product. It was discontinued in 2003, 6 years prior. </p>
 
 <p>To simplify the compilation process and standardize writing procedures, I migrated the documentation over to MadCap Flare. This required: </p>
 
