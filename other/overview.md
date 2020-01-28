@@ -9,7 +9,7 @@ These samples represent other written works that I've produced in my professiona
 <p>
   <figure style="float:right;">
     <img src="barcode-guide.png" width="400px" />
-      <figcaption style="font-style:italic; text-align:center;">Barcode Reference generated with MadCap Flare</figcaption></a>
+      <figcaption style="font-style:italic; text-align:center;">Barcode Reference generated with MadCap Flare</figcaption>
   </figure>
   <strong>Tools Used:</strong> MadCap Flare, HTML, CSS, BarTender Suite</p>
 
@@ -20,5 +20,26 @@ These samples represent other written works that I've produced in my professiona
 <p>No matter how you obtain your barcodes, I highly recommend using this guide for help in choosing a barcode type or ensuring that your barcodes are encoded correctly. But may I suggest you use Seagull's <a href="https://www.seagullscientific.com/barcode-generator">free barcode generator</a> or purchase their award-winning BarTender design and printing solution? </p>
   
 <p><strong><a href="https://barcodeguide.seagullscientific.com">View Seagull's free barcode guide here!</a></strong></p>
+
+</div>
+
+<div style="width:100%; background:lightgray; padding:25px;">
+
+<h2>Project Plans</h2>
+
+<p>
+  <figure style="float:right; margin-top:-35px;">
+    <img src="man-standing-infront-of-white-board-1181345.jpg" width="200px" />
+  </figure>
+  
+Every project plan tells a story about the project's background, goals, teams, and deliverables. Just like a creative narrative, a project plan fills in details and a timeline in chapters (or phases) and ensures a "happily ever after" for the stakeholders. It serves as a roadmap that shows a project's phases, key activities, dependencies between tasks, and project milestones.</p>
+
+<p>NOTE: These are all examples based off of project plans that I've created, but do not reflect any proprietary work done for any employer. All names, projects, deadlines, etc. are made up for the purpose of this portfolio.</p>
+
+<p>Click to view a sample project plan below:</p>
+<ul>
+  <li><a href="toc.md">Project Plan: Reorganization of Help System</a></li>
+  <li><a href="kb.md">Project Plan: Knowledge Base Implementation</a></li>
+</ul>
 
 </div>
