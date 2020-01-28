@@ -4,17 +4,21 @@ These samples represent other written works that I've produced in my professiona
 
 <div style="width:100%; background:aliceblue; padding:25px;">
 
-<h2>Barcode Reference Guide</h2>
+<h2>Barcode Guide</h2>
 
 <p>
   <figure style="float:right;">
-    <a href="api/index.html"><img src="api-ref.png" width="400px" />
-      <figcaption style="font-style:italic; text-align:center;">API Reference generated with JSDoc</figcaption></a>
+    <img src="barcode-guide.png" width="400px" />
+      <figcaption style="font-style:italic; text-align:center;">Barcode Reference generated with MadCap Flare</figcaption></a>
   </figure>
-  <strong>Tools Used:</strong> JavaScript, JSDoc, GitHub Pages, Markdown, HTML, CSS</p>
+  <strong>Tools Used:</strong> MadCap Flare, HTML, CSS, BarTender Suite</p>
 
-<p>Text goes here</p>
+<p>Barcodes have been a vital business technology for more than 40 years. But with so many barcoding standards and symbologies across the world's industries, there's a lot to learn. Did you know that there are over 100 different barcodes to choose from? Or that some barcodes require very specific information to be encoded in them? Some barcodes even have advanced technology built in, so that if part of the code is damaged, it will still be readable. All of this is to ensure safety, security, efficiency and compliance as barcodes are used to track products in many different industries.</p>
 
-<p>View the API reference here: <a href="api/index.html">https://ingerjm0.github.io/writing-portfolio/dev/api/index.html</a>.</p>
+<p>I learned all of this and more at Seagull Scientific, which develops BarTender® barcode labeling and enterprise printing software. When I first started working here, all of my barcoding knowledge was passed down from fellow peers and co-workers. While the internet contained some information, none of it was in the same spot. So I (as an employee at Seagull) developed a barcode guide, which remains one of the most comprehensive references for barcode information. </p>
+  
+<p>No matter how you obtain your barcodes, I highly recommend using this guide for help in choosing a barcode type or ensuring that your barcodes are encoded correctly. But may I suggest you use Seagull's <a href="https://www.seagullscientific.com/barcode-generator">free barcode generator</a> or purchase their award-winning BarTender design and printing solution? </p>
+  
+<p><strong><a href="https://barcodeguide.seagullscientific.com">View Seagull's free barcode guide here!</a></strong></p>
 
 </div>
