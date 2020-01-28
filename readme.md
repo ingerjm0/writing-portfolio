@@ -41,6 +41,6 @@ I am a motivated, proactive professional experienced in writing quality technica
 
 <table class="card">
   <tr>
-     <td><a href="other/overview.html"><h2 style="text-align:center;">Other Professional Work</h2><p>Click here to find out about other work I've completed including a comprehensive barcode reference guide, project plans, internal specifications and more.</p><p>&nbsp;<br /><br /></p></a></td>
+     <td><a href="other/overview.html"><h2 style="text-align:center;">Other Professional Work</h2><p>Click here to find out about other work I've completed including a comprehensive barcode guide, project plans, internal specs and more.<br /><br /><br /></p></a></td>
   </tr>
 </table>
