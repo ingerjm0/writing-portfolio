@@ -29,12 +29,18 @@ I am a motivated, proactive professional experienced in writing quality technica
 
 <table class="card">
   <tr>
-     <td><a href="dev/overview.html"><h2>Developer Documentation</h2><p>Developer documentation meets the developer where they are, providing language-specific guidance, API references, and code samples to illustrate an API usage. Whether its developing a developer's quick start guide, a detailed API reference, example code snippets, or walk-through tutorials, I've enjoyed working with programmers in many different languages.</p></a></td>
+     <td><a href="dev/overview.html"><h2 style="text-align:center;">Developer Documentation</h2><p>Developer documentation meets the developer where they are, providing language-specific guidance, API references, and code samples to illustrate an API usage. Whether its developing a developer's quick start guide, a detailed API reference, example code snippets, or walk-through tutorials, I've enjoyed working with programmers in many different languages.</p></a></td>
   </tr>
 </table>
 
-<table class="card" style="margin-left: 230px;">
+<table class="card">
   <tr>
-     <td><a href="help/overview.html"><h2>Online Help Systems</h2><p>An online help system is more than just pages of text. Its a form of user assistance, designed to walk a user directly to the topic that will best help them. Great online help systems know their audience, simplify the navigation, and stay on top of the most recent technological and design trends.</p></a></td>
+     <td><a href="help/overview.html"><h2 style="text-align:center;">Online Help Systems</h2><p>An online help system is more than just pages of text. Its a form of user assistance, designed to walk a user directly to the topic that will best help them. Great online help systems know their audience, simplify the navigation, and stay on top of the most recent technological and design trends.</p></a></td>
+  </tr>
+</table>
+
+<table class="card">
+  <tr>
+     <td><a href="other/overview.html"><h2 style="text-align:center;">Other Work</h2><p>Click here to find out about other work I've completed including a comprehensive barcode reference guide, project plans, internal specifications and more.</p></a></td>
   </tr>
 </table>
