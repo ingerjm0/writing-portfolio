@@ -29,7 +29,7 @@ These samples represent other written works that I've produced in my professiona
 
 <p>
   <figure style="float:right; margin-top:-35px;">
-    <img src="man-standing-infront-of-white-board-1181345.jpg" width="200px" />
+    <img src="arts-build-close-up-commerce-273230.jpg" width="200px" />
   </figure>
   
 Every project plan tells a story about the project's background, goals, teams, and deliverables. Just like a creative narrative, a project plan fills in details and a timeline in chapters (or phases) and ensures a "happily ever after" for the stakeholders. It serves as a roadmap that shows a project's phases, key activities, dependencies between tasks, and project milestones.</p>
