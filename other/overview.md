@@ -38,8 +38,8 @@ Every project plan tells a story about the project's background, goals, teams, a
 
 <p>Click to view a sample project plan below:</p>
 <ul>
-  <li><a href="toc.md">Project Plan: Reorganization of Help System</a></li>
-  <li><a href="kb.md">Project Plan: Knowledge Base Implementation</a></li>
+  <li><a href="toc.html">Project Plan: Reorganization of Help System</a></li>
+  <li><a href="kb.html">Project Plan: Knowledge Base Implementation</a></li>
 </ul>
 
 </div>
