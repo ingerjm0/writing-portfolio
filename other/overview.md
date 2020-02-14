@@ -43,3 +43,21 @@ Every project plan tells a story about the project's background, goals, teams, a
 </ul>
 
 </div>
+
+<div style="width:100%; background:aliceblue; padding:25px;">
+
+<h2>Documentation Tools</h2>
+
+<p>
+  <figure style="float:right;">
+    <img src="software-tools.png" width="400px" />
+  </figure>
+  
+Throughout my career, I've implemented many different help authoring tools, documentation systems, and content management systems for technical writing teams, successfully balancing a tool's functionality and feature set with the budget, size, and needs of the company. I am now an expert in content systems new and old, including MadCap Flare, Paligo, Sphinx, RoboHelp, HTML Help Workshop, GitBook, and more. </p>
+<p>When a new system is deployed, I believe that everyone, not only the technical writers, should have access to the implementation and capabilities of the tool. Therefore, I typically write a detailed article published on the company's intranet site. </p>
+<p>Click to view sample implementations of tools I've deployed in my career below:</p>
+<ul>
+  <li><a href="sphinx.html">Sphinx and Read the Docs</a></li>
+  <li><a href="jsdoc.html">JSDoc and GitHub Pages</a></li>
+</ul>
+</div>
