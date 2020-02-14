@@ -50,7 +50,7 @@ Every project plan tells a story about the project's background, goals, teams, a
 
 <p>
   <figure style="float:right;">
-    <img src="software-tools.png" width="400px" />
+    <img src="software-tools.png" width="250px" />
   </figure>
   
 Throughout my career, I've implemented many different help authoring tools, documentation systems, and content management systems for technical writing teams, successfully balancing a tool's functionality and feature set with the budget, size, and needs of the company. I am now an expert in content systems new and old, including MadCap Flare, Paligo, Sphinx, RoboHelp, HTML Help Workshop, GitBook, and more. </p>
