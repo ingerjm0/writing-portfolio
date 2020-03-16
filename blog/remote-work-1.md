@@ -13,8 +13,7 @@
 ## Adjusting to Remote Work
 {: style="text-align:center;"}
 
-by Jenna Ingersoll | Posted on 03/15/2020
-{: style="text-align:center;"}
+<p style="text-align:center">by Jenna Ingersoll | Posted on 03/15/2020</p>
 
 The way we work is changing. As more companies go remote and create distributed environments, many workers are likely to try working from home for the first time. And for many, this idea of working remotely is foreign -- how do you maintain the same level of collaboration with your teammates? As a manager or executive, how do you ensure that morale stays high and your team stays connected with one another? 
 {: style="width:80%; margin-left:auto; margin-right:auto;"}
