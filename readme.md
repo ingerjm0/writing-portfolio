@@ -1,9 +1,9 @@
 # Jenna M Ingersoll
 {: style="text-align: center; font-size:2.5em;"}
 
-<p style="text-align:center;">Technical Writing Professional - Seattle, WA <br />
+<p style="text-align:center;">Technical Documentation and Knowledge Specialist - Seattle, WA <br />
   <a href="mailto:jenna.m.ingersoll@gmail.com">Contact via Email</a> <br />
-  <a href="https://drive.google.com/open?id=0B8WUv5172EuCQndhVzQzY1hQcWxfdmpORG1xMWhjZUM3TmxB">Click to download full resume</a>
+  <a href="https://drive.google.com/file/d/1qjemEbZvDrWnvpV_4fTrHibkVWW4ekvu/view?usp=sharing">Click to download full resume</a>
 </p>
 
 ---
@@ -14,7 +14,7 @@ Hello! I'm Jenna Ingersoll, a Seattle-based documentation specialist, educator, 
 I am a motivated, proactive professional experienced in writing quality technical documentation, conducting in-depth training sessions, managing teams of writers and developers, and providing excellent customer care. Want to know more? Message me!
 {: style="width:80%; margin-left:auto; margin-right:auto;"}
 
-**Areas of Expertise:** Technical Writing ▫ Content Strategy ▫ Instructional Design and Curriculum Development ▫ Training and Education ▫ UI/UX Design ▫ Program Management ▫ Software Development ▫ Quality Assurance
+**Areas of Expertise:** Team Leadership ▫ Technical Writing ▫ Knowledge Management ▫ Docs-as-Code ▫ Communications ▫ Content Strategy ▫ Training and Education ▫ Program Management
 {: style="text-align: center; width:80%; margin-left:auto; margin-right:auto;"}
 
 
