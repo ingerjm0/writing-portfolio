@@ -4,6 +4,27 @@ Developer documentation meets the developer where they are, providing language-s
 
 # Samples of Developer Documentation
 
+<div style="width:100%; background:lightgray; padding:25px;">
+
+<h2>Big Fish SDKs</h2>
+
+<p>
+  <figure style="float:right;">
+    <img src="unity-sdk.png" width="400px" />
+      <figcaption style="font-style:italic; text-align:center;">SDK Documentation generated with Doxygen</figcaption>
+  </figure>
+  <strong>Tools Used:</strong> Doxygen, Docusaurus, GitHub Pages, Markdown, HTML, CSS</p>
+
+<p>The BFG SDKs support game developers by interfacing with Big Fish platform services and surfacing mobile-specific APIs and features. There are three SDKs available - one for Unity, Android and iOS development. This sample demonstrates the Unity implementation, complete with an API reference, integration details, and SDK release notes.</p>
+
+<p>Prior to joining the SDK team, the documentation was maintained by the SDK developers and hosted on an on-prem web server, separate from the rest of Big Fish's documentation. To create consistency among the Big Fish documentation, I created plan to create a new web-hosted documentation "portal" called The Anchor with Docusaurus, which stores all of our help content alongside our SDK reference. </p>
+
+<p>To migrate the SDK reference from its own web server to The Anchor, my team created a custom script to convert the output HTML files to Markdown (the expected input for Docusaurus). We also created custom scripts to handle edge cases for unknown formatting. A new CSS stylesheet was created to modernize the Doxygen output, while ensuring that it consistently matched the branding of The Anchor. </p>
+
+<p>To complete the project, we used Docusaurus' versioning system to host past releases of our SDK. In Docusaurus, we hosted each SDK on its own instance to create independent sidebar navigation, while maintaining the "skin" of the Anchor site. The complete Unity documentation is available online on Big Fish's documentation site, <a href="https://docs.bigfishgames.com/unity/integrate-unitysdk">The Anchor</a>.</p>
+
+</div>
+
 <div style="width:100%; background:aliceblue; padding:25px;">
 
 <h2>High Fidelity API Reference</h2>
